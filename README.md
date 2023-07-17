@@ -5,7 +5,6 @@
 
 ![Portfolio Banner](https://github.com/abdulawalanupam/abdulawalanupam/blob/main/abdulawalanupam-github-banner.png)
 
-![Header](./your-header-image-name.png)
 
 > A creative showcase of my projects, skills, and experiences. Feel free to explore and get to know me better. 🌟
 
