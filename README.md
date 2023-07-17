@@ -1,6 +1,6 @@
 # 👋 Welcome to Md Abdul Awal Anupam's Portfolio! 🚀
 
-![Portfolio Banner](https://github.com/leviarista/github-profile-header-generator)
+![Portfolio Banner](https://github.com/abdulawalanupam/abdulawalanupam/blob/main/abdulawalanupam-github-banner.png)
 
 > A creative showcase of my projects, skills, and experiences. Feel free to explore and get to know me better. 🌟
 
